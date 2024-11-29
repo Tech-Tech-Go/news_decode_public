@@ -5,6 +5,8 @@ A Gen Ai powered app to analyze news for biases, misinformation and missing cont
 Its an indie project, publishing on every store requires buying license for each store, not possible for a free app.
 Idea is to promote fairness in journalism by detecting biases, missing context
 
+### CALCULATE CHECKSUM
+
 ##### Here’s a quick guide for checking a checksum on various platforms:
 
 <details>
